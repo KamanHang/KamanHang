@@ -4,7 +4,7 @@ You can find me Sharing my learnings and insights on [Instagram](https://www.ins
 
 ## My Data Engineering Projects 👷🏻‍♂️
 - ### [SQL Data Warehouse and Analytics Project](https://github.com/KamanHang/sqldatawarehousedataengineeringproject)
-
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamanhang&repo=sqldatawarehousedataengineeringproject)](https://github.com/kamanhang/github-readme-stats)
 ## Certification and Courses
 - #### [Advance SQL Course (Udemy)](https://www.udemy.com/certificate/UC-e66ea059-1ecc-4558-8d01-a73f7773cf53/)
 ## Most Used Languages
