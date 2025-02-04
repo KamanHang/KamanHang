@@ -1,6 +1,7 @@
-
-## Hello Visitor 🙋🏻‍♂️                                        
+## Hello Visitor 🙋🏻‍♂️  
 I'm **Kaman Limbu**, a passionate Data Engineer! I'm fostering skills into Data Engineering so that I can help organizations harness high-quality data for valuable insights and advanced analytics.
+You can find me Sharing my learnings and insights at [Instagram](https://www.instagram.com/chotamotacoder/)
+
 ## My Data Engineering Projects 👷🏻‍♂️
 - ### [SQL Data Warehouse and Analytics Project](https://github.com/KamanHang/sqldatawarehousedataengineeringproject)
 
