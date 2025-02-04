@@ -1,4 +1,4 @@
-## Hello Visitor 🙋🏻‍♂️  
+## Greetings Visitor 🙋🏻‍♂️  
 I'm **Kaman Limbu**, a passionate Data Engineer! I'm fostering my skills into Data Engineering so that I can help organizations harness high-quality data for valuable insights and advanced analytics.
 You can find me Sharing my learnings and insights on [Instagram](https://www.instagram.com/chotamotacoder/)
 
