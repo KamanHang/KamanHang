@@ -6,8 +6,9 @@ You can find me Sharing my learnings and insights on [Instagram](https://www.ins
 - ### [SQL Data Warehouse and Analytics Project](https://github.com/KamanHang/sqldatawarehousedataengineeringproject)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamanhang&repo=sqldatawarehousedataengineeringproject&theme=dark)](https://github.com/kamanhang/sqldatawarehousedataengineeringproject)
 ## Certification and Courses
-- #### [Advance SQL Course (Udemy)
-
+- #### [Advance SQL Course (Udemy)](https://www.udemy.com/certificate/UC-e66ea059-1ecc-4558-8d01-a73f7773cf53/)
+## Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KamanHang&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ## Social Media
 <div align="left">
   <a href="https://linkedin.com/in/kamanlimbu" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
