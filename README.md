@@ -3,7 +3,7 @@
 - You can find me Sharing my learnings and insights on [Instagram](https://www.instagram.com/chotamotacoder/)
 
 ## My Data Engineering Projects 👷🏻‍♂️
-- ### [SQL Data Warehouse and Analytics Project](https://github.com/KamanHang/sqldatawarehousedataengineeringproject)
+- ### [SQL Data Warehouse and Analytics Project (Jan 2025 - Feb 2025)](https://github.com/KamanHang/sqldatawarehousedataengineeringproject) 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamanhang&repo=sqldatawarehousedataengineeringproject&theme=dark)](https://github.com/kamanhang/sqldatawarehousedataengineeringproject)
 ## Certification and Courses
 - #### [Advance SQL Course (Udemy)](https://www.udemy.com/certificate/UC-e66ea059-1ecc-4558-8d01-a73f7773cf53/)
