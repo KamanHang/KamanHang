@@ -5,6 +5,8 @@
 ## My Data Engineering Projects 👷🏻‍♂️
 - ### [SQL Data Warehouse and Analytics Project (Jan 2025 - Feb 2025)](https://github.com/KamanHang/sqldatawarehousedataengineeringproject) 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamanhang&repo=sqldatawarehousedataengineeringproject&theme=dark)](https://github.com/kamanhang/sqldatawarehousedataengineeringproject)
+- ### [HealthCare Data Engineering Apache Spark Project (Ongoing)](https://github.com/KamanHang/healthcare-data-engineering-apache-spark-project) 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamanhang&repo=healthcare-data-engineering-apache-spark-project&theme=dark)](https://github.com/kamanhang/healthcare-data-engineering-apache-spark-project)
 ## Certification and Courses
 - #### [Advance SQL Course (Udemy)](https://www.udemy.com/certificate/UC-e66ea059-1ecc-4558-8d01-a73f7773cf53/)
 - #### [Apache Spark Essential Training: Big Data Engineering (LinkedIn Learning)](https://drive.google.com/file/d/1P5cM0PvsoCh20AY1_gr-iBev3Y6egDbB/view)
