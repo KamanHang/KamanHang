@@ -7,6 +7,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamanhang&repo=sqldatawarehousedataengineeringproject&theme=dark)](https://github.com/kamanhang/sqldatawarehousedataengineeringproject)
 ## Certification and Courses
 - #### [Advance SQL Course (Udemy)](https://www.udemy.com/certificate/UC-e66ea059-1ecc-4558-8d01-a73f7773cf53/)
+- #### [Apache Spark Essential Training: Big Data Engineering (LinkedIn Learning)](https://drive.google.com/file/d/1P5cM0PvsoCh20AY1_gr-iBev3Y6egDbB/view)
 ## Most Used Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KamanHang&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
 ## Social Media
