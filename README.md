@@ -13,7 +13,7 @@
 ## Most Used Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KamanHang&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
 
-## Data Fantics I follow for resources to learn Data Engineering
+## Data Fanatics I follow for resources to learn Data Engineering
 - #### [Darshil Parmar](https://www.linkedin.com/in/darshil-parmar/)
 - #### [Mukesh Kumar (The Best Apache Spark Playlist on his YouTube)](https://www.youtube.com/channel/UCacvJAgrPTjSEdnZObMzpqQ)
 - #### [Data with Baraa (The best SQL Tutorials on YouTube Basic to Advance Topic)](https://www.youtube.com/@DataWithBaraa)
