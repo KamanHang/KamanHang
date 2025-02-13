@@ -4,7 +4,7 @@
 ## My Data Engineering Projects 👷🏻‍♂️
 - ### [SQL Data Warehouse and Analytics Project (Jan 2025 - Feb 2025)](https://github.com/KamanHang/sqldatawarehousedataengineeringproject) 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamanhang&repo=sqldatawarehousedataengineeringproject&theme=tokyonight)](https://github.com/kamanhang/sqldatawarehousedataengineeringproject)
-- ### [HealthCare Data Engineering Apache Spark Project (Ongoing)](https://github.com/KamanHang/healthcare-data-engineering-apache-spark-project) 
+- ### [HealthCare Data Engineering Apache Spark Project (Feb 2025 - Present)](https://github.com/KamanHang/healthcare-data-engineering-apache-spark-project) 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamanhang&repo=healthcare-data-engineering-apache-spark-project&theme=tokyonight)](https://github.com/kamanhang/healthcare-data-engineering-apache-spark-project)
   
 ## Certification and Courses
