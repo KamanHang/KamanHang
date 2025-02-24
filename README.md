@@ -16,7 +16,7 @@
 ## Data Fanatics I follow for resources to learn Data Engineering
 - #### [Darshil Parmar](https://www.linkedin.com/in/darshil-parmar/)
 - #### [Mukesh Kumar (The Best Apache Spark Playlist on his YouTube)](https://www.youtube.com/channel/UCacvJAgrPTjSEdnZObMzpqQ)
-- #### [Data with Baraa (The best SQL Tutorials on YouTube Basic to Advance Topic)](https://www.youtube.com/@DataWithBaraa)
+- #### [Data with Baraa (The Best SQL Tutorials on YouTube Basic to Advance Topic)](https://www.youtube.com/@DataWithBaraa)
 
 
 ## Social Media
