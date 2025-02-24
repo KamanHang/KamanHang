@@ -6,7 +6,11 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamanhang&repo=sqldatawarehousedataengineeringproject&theme=tokyonight)](https://github.com/kamanhang/sqldatawarehousedataengineeringproject)
 - ### [HealthCare Data Engineering Apache Spark Project (Feb 2025 - Present)](https://github.com/KamanHang/healthcare-data-engineering-apache-spark-project) 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamanhang&repo=healthcare-data-engineering-apache-spark-project&theme=tokyonight)](https://github.com/kamanhang/healthcare-data-engineering-apache-spark-project)
-  
+
+## Grinding On
+- ### [LeetCode 50 SQL Questions with Apache Spark  (Feb 2025 - Present)](https://github.com/KamanHang/leetcode-sql-with-pyspark-top50-kaman) 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamanhang&repo=leetcode-sql-with-pyspark-top50-kaman&theme=merko)](https://github.com/kamanhang/leetcode-sql-with-pyspark-top50-kaman)
+
 ## Certification and Courses
 - #### [Advance SQL Course (Udemy)](https://www.udemy.com/certificate/UC-e66ea059-1ecc-4558-8d01-a73f7773cf53/)
 - #### [Apache Spark Essential Training: Big Data Engineering (LinkedIn Learning)](https://drive.google.com/file/d/1P5cM0PvsoCh20AY1_gr-iBev3Y6egDbB/view)
