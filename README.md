@@ -1,5 +1,5 @@
 ## Greetings Visitor 🙋🏻‍♂️  
-- I'm **Kaman Limbu**, a passionate **Data Engineer**! I'm fostering my skills into Data Engineering so that I can help organizations harness high-quality data for valuable insights and advanced analytics.
+- I'm **Kaman Limbu**, a passionate **Data Engineer**! I'm fostering my skills into Data Engineering and thriving for opportunity to learn and grow as Data Engineer to help organizations harness high-quality data for valuable insights and advanced analytics.
 
 ## My Data Engineering Projects 👷🏻‍♂️
 - ### [SQL Data Warehouse and Analytics Project (Jan 2025 - Feb 2025)](https://github.com/KamanHang/sqldatawarehousedataengineeringproject) 
