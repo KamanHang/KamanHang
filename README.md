@@ -1,4 +1,4 @@
-# Kaman Limbu — Software Engineer | Healthcare Analytics, AI & Mobile
+# Kaman Limbu — Software Engineer | US Healthcare Analytics | AI integrated apps
 
 **Software Engineer - 2 at IQVIA (Cedar Gate Technologies) · Lalitpur, Nepal**
 
