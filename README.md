@@ -85,7 +85,6 @@ Kaman is open to conversations about Software Engineering
 
 - 🌐 [kamanlimbu.com.np](https://kamanlimbu.com.np/)
 - 💼 [linkedin.com/in/kamanlimbu](https://www.linkedin.com/in/kamanlimbu/)
-- 📧 kamanhangshrong@gmail.com
 
 ---
 
