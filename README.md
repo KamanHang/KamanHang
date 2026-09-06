@@ -14,7 +14,7 @@ Kaman works on healthcare analytics applications serving U.S. healthcare, buildi
 
 Previously he built AI-powered procurement tools, computer-vision-based medical screening applications, and HR management systems across React.js, React Native, Angular and Java
 
-- 🏥 **Healthcare analytics** — dashboards and data workflows for U.S. payers and providers
+- 🏥 **Healthcare analytics** — dashboards and data analytics for U.S Healthcare.
 - 🤖 **AI/ML integration** — on-device computer vision models in React Native, LLM-powered agents in production
 - 📱 **Mobile** — React Native with native Kotlin Turbo Modules and Vision Camera frame processors
 - ⚙️ **Architecture** — REST API design, High Level Design (HLD), reactive programming (RxJS), design patterns (Observer, Facade), performance optimization
@@ -26,11 +26,11 @@ Previously he built AI-powered procurement tools, computer-vision-based medical 
 
 **Languages** — JavaScript, TypeScript, Java, Kotlin, Dart
 
-**Frontend** — React.js, Angular, AngularJS, RxJS, Redux Toolkit, TanStack Query, Tailwind CSS, PrimeNG, Zod
+**Frontend** — React.js, Angular, RxJS, Redux Toolkit, TanStack Query, Tailwind CSS, PrimeNG, Zod
 
-**Mobile** — React Native, React Native Turbo Modules, Vision Camera, Flutter, Kotlin
+**Mobile** — React Native, Flutter, React Native Turbo Modules, React Vision Camera, Kotlin
 
-**Backend** — Node.js, Java, Spring Boot, Grails, REST APIs
+**Backend** — Node.js, Java, Spring Boot, Grails
 
 **Cloud & Tooling** — AWS (S3, SQS, CloudWatch), Docker, Git, Figma MCP Server, Cursor IDE
 
@@ -41,12 +41,12 @@ Previously he built AI-powered procurement tools, computer-vision-based medical 
 ### HemScreen — AI-Powered Anemia Screening
 `React Native` `Kotlin` `Turbo Modules` `Vision Camera` `Redux Toolkit` `Angular` `RxJS`
 
-A mobile screening application that detects anemia from camera imagery. Kaman integrated a quantized RCNN computer vision model through a Kotlin-based React Native Turbo Module, improving image-processing performance by roughly 95%. He also built real-time brightness detection using Vision Camera frame processors to raise capture quality, and used RxJS to manage reactive demographic data streams on the web side.
+A mobile screening application that detects anemia from camera imagery. Kaman integrated a quantized RCNN computer vision model through a Kotlin-based React Native Turbo Module, improving image-processing performance by roughly 95% for offline workflow. He also built real-time brightness and stable image feature for image capture using Vision Camera frame processors to raise capture quality, and used RxJS to manage reactive demographic data streams on the web app.
 
 ### FAO–UN Nepal Procurement AI Agent
 `React.js` `Microsoft Teams SDK` `TanStack Query` `Zod` `Docker` `Tailwind CSS`
 
-An AI procurement agent embedded directly in Microsoft Teams via the Teams SDK, letting users run procurement workflows inside their collaboration platform. Kaman built type-safe technical and bidder application forms with `useReducer` and Zod across 8+ workflows, along with reusable hooks for dynamic field generation and multi-step registration. The application was containerized with Docker for reproducible deployments.
+An AI procurement agent embedded directly in Microsoft Teams via the Teams SDK, letting users run procurement workflows inside their collaboration platform. Kaman built type-safe technical and bidder application forms supporting 8+ workflows with chat user interface. Kaman was actively involved in UI/UX design and technical analysis for FAO Client.
 
 ### Yaintra HRMS
 `Angular` `RxJS` `CASL` `PrimeNG` `Tailwind CSS`
