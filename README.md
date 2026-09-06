@@ -1,8 +1,8 @@
 # Kaman Limbu — Software Engineer | Healthcare Analytics, AI & Mobile
 
-**Software Development Engineer - 2 at IQVIA (Cedar Gate Technologies) · Lalitpur, Nepal**
+**Software Engineer - 2 at IQVIA (Cedar Gate Technologies) · Lalitpur, Nepal**
 
-Kaman Limbu is a Software Engineer with 3+ years of experience building scalable web, mobile, and AI-powered applications across healthcare, procurement, HRMS, and property technology domains. He works primarily in React.js, React Native, Angular, Java, and Kotlin.
+Kaman Limbu is a Software Development Engineer with 3+ years of experience building scalable web, mobile, and AI-powered applications across healthcare, procurement, HRMS, and property technology domains. He works primarily in React.js, React Native, Angular, Java, and Kotlin.
 
 🌐 [kamanlimbu.com.np](https://kamanlimbu.com.np/) · 💼 [LinkedIn](https://www.linkedin.com/in/kamanlimbu/) · ✍️ [Medium](https://medium.com/@kamanhangshrong) 
 
