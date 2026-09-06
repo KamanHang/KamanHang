@@ -10,15 +10,15 @@ Kaman Limbu is a Software Engineer with 3+ years of experience building scalable
 
 ## About
 
-Kaman works on healthcare analytics applications serving U.S. healthcare and health insurance clients, building analytics dashboards and data-driven workflows in environments governed by HIPAA and healthcare data security requirements.
+Kaman works on healthcare analytics applications serving U.S. healthcare, building data-driven workflows in environments governed by HIPAA and healthcare data security requirements.
 
-Previously he built AI-powered procurement tools, computer-vision-based medical screening applications, and HR management systems across React.js, React Native, Angular, and Kotlin.
+Previously he built AI-powered procurement tools, computer-vision-based medical screening applications, and HR management systems across React.js, React Native, Angular and Java
 
 - 🏥 **Healthcare analytics** — dashboards and data workflows for U.S. payers and providers
 - 🤖 **AI/ML integration** — on-device computer vision models in React Native, LLM-powered agents in production
 - 📱 **Mobile** — React Native with native Kotlin Turbo Modules and Vision Camera frame processors
-- ⚙️ **Architecture** — REST API design, reactive programming (RxJS), design patterns (Observer, Facade), performance optimization
-- ☁️ **Cloud** — AWS S3, SQS, CloudWatch
+- ⚙️ **Architecture** — REST API design, High Level Design (HLD), reactive programming (RxJS), design patterns (Observer, Facade), performance optimization
+- ☁️ **Cloud** — AWS S3, SQS, CloudWatch, EC2 and Lambda
 
 ---
 
